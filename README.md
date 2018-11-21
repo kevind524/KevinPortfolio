@@ -8,9 +8,11 @@ Stored Procedure - This zip folder contains 4 SQL files.
                    Dao_SPROC_Portfolio is the main file I created to create a database to run the other 3 stored procedure queries.
                    The other 3 SQL files are just stored procedures. They are mostly the same between each of them and each have test                        cases on the bottom.
 
-PokerProject - C# program containing a poker game using OOP. Player will play against the program.
+PokerProject - C# Visual Studio project containing a poker game using OOP. Player will play against the program.
                Open PokerProject.sln in Visual Studio.
                Execute Program.cs to run the poker game.
                More detail on code in file.
 
-
+DAL C# - This Visual Studio project that shows work with Data Access Layer combined with C# and a little HTML with some web design. 
+         The project builds a website upon execution that has the user login. 
+         After logging in the user has the choice of creating a new item entry that will be stored on the SQL database or lookup items.
